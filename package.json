@@ -42,7 +42,7 @@
         "nest-shared": "^0.4.53",
         "reflect-metadata": "0.1.13",
         "rimraf": "3.0.2",
-        "rxjs": "7.5.5",
+        "rxjs": "7.5.7",
         "tsyringe": "4.7.0",
         "yup": "0.32.11"
     },
