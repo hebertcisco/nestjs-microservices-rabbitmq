@@ -24,6 +24,8 @@ on:
           - deleted
           - disabled_inactivity
           - disabled_manually
+          - failure
+          - skipped
       dry_run:
         description: "Only log actions, do not perform any delete operations."
         required: false
