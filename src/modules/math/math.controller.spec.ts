@@ -3,18 +3,18 @@ import { MathController } from './math.controller';
 import { MathService } from './math.service';
 
 describe('MathController', () => {
-  let controller: MathController;
+    let controller: MathController;
 
-  beforeEach(async () => {
-    const module: TestingModule = await Test.createTestingModule({
-      controllers: [MathController],
-      providers: [MathService],
-    }).compile();
+    beforeEach(async () => {
+        const module: TestingModule = await Test.createTestingModule({
+            controllers: [MathController],
+            providers: [MathService],
+        }).compile();
 
-    controller = module.get<MathController>(MathController);
-  });
+        controller = module.get<MathController>(MathController);
+    });
 
-  it('should be defined', () => {
-    expect(controller).toBeDefined();
-  });
+    it('should be defined', () => {
+        expect(controller).toBeDefined();
+    });
 });

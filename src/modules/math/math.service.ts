@@ -5,7 +5,7 @@ import { GetNotificationsDto } from './dto/get-notifications.dto';
 export class MathService {
     public getNotifications(getNotificationsDto: GetNotificationsDto): void {
         const { data } = getNotificationsDto;
-         console.log("data", data);
+        console.log('data', data);
         // channel.ack(originalMsg);
     }
 }
