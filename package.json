@@ -39,7 +39,7 @@
         "@nestjs/mapped-types": "1.2.0",
         "@nestjs/microservices": "^9.2.1",
         "@nestjs/platform-express": "9.2.1",
-        "@nestjs/schematics": "9.0.3",
+        "@nestjs/schematics": "9.0.4",
         "amqp-connection-manager": "^4.1.9",
         "amqplib": "^0.10.3",
         "class-transformer": "0.5.1",
