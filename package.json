@@ -46,7 +46,7 @@
         "dotenv": "16.0.3",
         "express": "4.18.2",
         "nest-shared": "^0.4.59",
-        "rimraf": "3.0.2",
+        "rimraf": "4.0.7",
         "tsyringe": "4.7.0",
         "yup": "0.32.11"
     },
