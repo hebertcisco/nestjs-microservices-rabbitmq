@@ -36,7 +36,7 @@
     },
     "dependencies": {
         "@nestjs/core": "9.2.1",
-        "@nestjs/mapped-types": "1.2.0",
+        "@nestjs/mapped-types": "1.2.2",
         "@nestjs/microservices": "^9.2.1",
         "@nestjs/platform-express": "9.2.1",
         "@nestjs/schematics": "9.0.4",
