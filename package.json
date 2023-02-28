@@ -40,7 +40,7 @@
         "@nestjs/microservices": "^9.3.9",
         "@nestjs/platform-express": "9.2.1",
         "@nestjs/schematics": "9.0.4",
-        "amqp-connection-manager": "^4.1.9",
+        "amqp-connection-manager": "^4.1.11",
         "amqplib": "^0.10.3",
         "class-transformer": "0.5.1",
         "dotenv": "16.0.3",
