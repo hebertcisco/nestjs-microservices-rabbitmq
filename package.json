@@ -55,7 +55,7 @@
         "@babel/core": "7.21.0",
         "@babel/node": "7.20.7",
         "@babel/preset-env": "7.20.2",
-        "@nestjs/cli": "9.3.0",
+        "@nestjs/cli": "9.4.0",
         "@nestjs/testing": "9.3.9",
         "@types/amqplib": "^0.10.1",
         "@types/dotenv": "8.2.0",
