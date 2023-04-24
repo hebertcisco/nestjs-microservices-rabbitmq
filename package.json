@@ -48,7 +48,7 @@
         "nest-shared": "^5.0.1",
         "rimraf": "4.4.0",
         "tsyringe": "4.7.0",
-        "yup": "1.0.2"
+        "yup": "1.1.1"
     },
     "devDependencies": {
         "@babel/cli": "7.21.0",
