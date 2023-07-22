@@ -1,6 +1,6 @@
 {
     "name": "nestjs-microservices-rabbitmq",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "About RabbitMQ is an open-source and lightweight message broker which supports multiple messaging protocols.",
     "author": "Hebert Barros <hebert@hotbrains.com.br>",
     "private": true,
