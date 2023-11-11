@@ -45,7 +45,7 @@
         "class-transformer": "0.5.1",
         "dotenv": "16.0.3",
         "express": "4.18.2",
-        "nest-shared": "^5.0.1",
+        "nest-shared": "^5.0.3",
         "rimraf": "4.4.0",
         "tsyringe": "4.7.0",
         "yup": "1.1.1"
